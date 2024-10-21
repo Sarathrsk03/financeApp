@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "financeApp",
-    "slug": "financeApp",
+    "slug": "hciproject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "056c2657-464b-46e7-af3d-a1a2e2f4bf24"
+      }
+    },
+    "owner": "sarathrsk03"
   }
 }
